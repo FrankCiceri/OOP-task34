@@ -1,0 +1,15 @@
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\bin\Debug\net6.0\OOPtask34.deps.json
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\bin\Debug\net6.0\OOPtask34.dll
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\bin\Debug\net6.0\OOPtask34.pdb
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\OOPtask34.csproj.AssemblyReference.cache
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\OOPtask34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\OOPtask34.AssemblyInfoInputs.cache
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\OOPtask34.AssemblyInfo.cs
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\OOPtask34.csproj.CoreCompileInputs.cache
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\OOPtask34.dll
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\refint\OOPtask34.dll
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\OOPtask34.pdb
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\ref\OOPtask34.dll
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\bin\Debug\net6.0\OOPtask34.exe
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\bin\Debug\net6.0\OOPtask34.runtimeconfig.json
+D:\Bootcamp AQA\task4-OOP\task34\OOP-task34\ClassLibrary1\obj\Debug\net6.0\OOPtask34.genruntimeconfig.cache
