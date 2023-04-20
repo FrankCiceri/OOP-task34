@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp AQA\\task4-OOP\\task34\\OOP-task34\\ClassLibrary1\\OOPtask34.csproj",
+      "projectUniqueName": "D:\\Bootcamp AQA\\task4-OOP\\task34\\OOP-task34\\OOP-task34\\OOPtask34.csproj",
       "projectName": "OOPtask34",
-      "projectPath": "D:\\Bootcamp AQA\\task4-OOP\\task34\\OOP-task34\\ClassLibrary1\\OOPtask34.csproj",
+      "projectPath": "D:\\Bootcamp AQA\\task4-OOP\\task34\\OOP-task34\\OOP-task34\\OOPtask34.csproj",
       "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp AQA\\task4-OOP\\task34\\OOP-task34\\ClassLibrary1\\obj\\",
+      "outputPath": "D:\\Bootcamp AQA\\task4-OOP\\task34\\OOP-task34\\OOP-task34\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
